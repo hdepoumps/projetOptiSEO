@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -1036,9 +1036,6 @@ h4 {
 }
 
 @media (max-width: 767px) {
-    p{
-        font-size:13px;
-    }
     .bloc-mob-center-text {
         text-align: center;
     }
