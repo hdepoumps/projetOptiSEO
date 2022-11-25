@@ -513,7 +513,6 @@ button {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 0;
     z-index: 500;
     transition: all .3s ease-in-out;
 }
@@ -781,7 +780,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C !important;
+    color: white !important;
 }
 
 .btn-atomic-tangerine {
